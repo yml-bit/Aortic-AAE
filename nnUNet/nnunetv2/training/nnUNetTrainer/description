@@ -1,0 +1,8 @@
+p2 ##note:Rename project file to nnUNetTrainer when training or test
+nnUNetTrainer_p2_ux.py:UXNet_3D  #+patchsize=(96 96 96)+inchanel=1
+nnUNetTrainer_p2_nSwi.py:nSwinunetr 
+nnUNetTrainer_p2_res.py:SegResNet
+nnUNetTrainer_p2_nnf.py:nnFormer
+nnUNetTrainer_unet.py:original nnunet
+nnUNetTrainer_p2_Med.py：MedNeXt
+nnUNetTrainer_p2_AAE.py：Aortic-AAE #(160,160,96)

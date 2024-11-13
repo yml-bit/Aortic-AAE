@@ -1,0 +1,5 @@
+/media/bit301/data/yml/data/p2_nii/external/lz/dis/xz/PA165/0.nii.gz
+/media/bit301/data/yml/data/p2_nii/external/lz/nor/PA194/0.nii.gz
+/media/bit301/data/yml/data/p2_nii/external/hnnk/dis/dmzyyh/DICOM0/PA8/SE0/0.nii.gz
+/media/bit301/data/yml/data/p2_nii/external/cq/dis/xz/PA246/0.nii.gz
+/media/bit301/data/yml/data/p2_nii/external/cq/dis/dmzyyh/PA73/0.nii.gz
