@@ -8,7 +8,7 @@
 	(3)data checking and training preparation:execute a command "nnUNetv2_plan_and_preprocess -d 301 --verify_dataset_integrity"  under the path nnunet-v2
 	(3)training:rename training(such as nnUNetTrainer_p2_AAE.py) file to nnUNetTrainer.py  #need to synchronize revision output path
 4-inference: 
-	(1)nnUNet/nnunetv2/inference/predict_P2_s.py (unet，Aortic-AAE and medxnet) or predict_P2_ns.py（others）  #mask sure the input and output file is right. Aortic-AAE pre-trained model[https://zenodo.org/records/14072554]
+	(1)nnUNet/nnunetv2/inference/predict_P2_s.py (unet，Aortic-AAE and medxnet) or predict_P2_ns.py（others）  #mask sure the input and output file is right. Aortic-AAE pre-trained model[https://zenodo.org/records/14126680]
 	(2) reprocess(just for Aortic-AAE): use test/data_process.py run postpossess function
 5-segmentation evalution：overal_test.py
 6-geometric cacaulate statis and make display chart:aortic_index_cs.py
